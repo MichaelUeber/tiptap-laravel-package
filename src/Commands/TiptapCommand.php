@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Michaelueber\Tiptap\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TiptapCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'tiptap';
 
     public $description = 'My command';
 
